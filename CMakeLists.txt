@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(meshviewer)
+add_executable(${PROJECT_NAME} main.cpp)
+set(CINOLIB_USES_OPENGL_GLFW_IMGUI ON)
+find_package(cinolib REQUIRED)
+target_link_libraries(${CMAKE_PROJECT_NAME} cinolib)
