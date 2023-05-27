@@ -41,4 +41,4 @@ The option `-opt` can be
 - `-pgon` for polygon meshes
 - `-tet` for tetmeshes
 - `-quad` for quadmeshes
-- `-phed` for polyhedral
+- `-phed` for polyhedral meshes
