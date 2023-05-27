@@ -1,6 +1,6 @@
 # **MeshViewer**
 This is a small C++ program *- more like a shortcut -* for visualizing surface and volumetric meshes with [Cinolib](https://github.com/mlivesu/cinolib) that can be used directly from the terminal.
-![](viewer.png)
+![](img/img.png)
 > Being completely based on Cinolib it can only display what Cinolib can display
 
 
